@@ -264,6 +264,8 @@ sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 thebrave.io, 1234678, RESELLER, c25b2154543746ac
 thunder-monetize.com, 3962740416, RESELLER
 video.unrulymedia.com, 995298565, RESELLER
-xandr.com, 14082, RESELLERgoogle.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+xandr.com, 14082, RESELLER
+
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 
 themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
